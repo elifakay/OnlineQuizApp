@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "258007420963",
+    "firebase_url": "https://onlinequizapp-e8efa.firebaseio.com",
+    "project_id": "onlinequizapp-e8efa",
+    "storage_bucket": "onlinequizapp-e8efa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258007420963:android:2b1bf94af70a3256",
+        "android_client_info": {
+          "package_name": "com.elifakay.onlinequizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258007420963-d5c11dfd21vbm1sbeho5p9frvam4ph96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elifakay.onlinequizapp",
+            "certificate_hash": "9c8405baf8592f29f75a1ceee5ab7c19fbb314fd"
+          }
+        },
+        {
+          "client_id": "258007420963-ebim2gms7mg7nvdj0f2sj54d4up6lprm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8EcQloKfYSSpNx5nuOGaM_n8OnXTnaNE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258007420963-ebim2gms7mg7nvdj0f2sj54d4up6lprm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
